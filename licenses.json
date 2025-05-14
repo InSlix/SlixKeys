@@ -1,1 +1,17 @@
-{}
+{
+  "ABCD-EFGH-IJKL": {
+    "status": "active",
+    "type": "lifetime",
+    "expires": "never"
+  },
+  "1234-5678-9012": {
+    "status": "active",
+    "type": "7 days",
+    "expires": "2025-05-20"
+  },
+  "9999-8888-7777": {
+    "status": "banned",
+    "type": "none",
+    "expires": "none"
+  }
+}
